@@ -13,5 +13,5 @@ btn2.addEventListener('click',()=> {
 })
 
 img.addEventListener("click", ()=>{
-    alert("Hello! after pipeline v3!!");
+    alert("Hello! S3 bucket + Pipeline GODA!!");
 })
